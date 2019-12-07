@@ -1,0 +1,26 @@
+# Enable the teleporter (compass)?
+compass: true
+compassItem: compass
+arenaclock: true
+clockItem: watch
+spectatorsTools: true
+spectatorsToolsItem: magma_cream
+tpToDeathTool: true
+tpToDeathToolShowCause: true
+inspector: true
+inspectorItem: book
+inspectPlayerFromTeleportationMenu: true
+playersHealthInTeleportationMenu: true
+playersLocationInTeleportationMenu: true
+specchat: true
+outputmessages: true
+deathspec: false
+colouredtablist: true
+seespecs: false
+blockcmds: true
+adminbypass: true
+newbieMode: true
+teleportToSpawnOnSpecChangeWithoutLobby: true
+useSpawnCommandToTeleport: true
+enforceArenaBoundary: true
+version: 2.0

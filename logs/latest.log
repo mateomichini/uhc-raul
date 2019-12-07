@@ -1,0 +1,209 @@
+[11:19:21] [Server thread/INFO]: Starting minecraft server version 1.8.7
+[11:19:21] [Server thread/INFO]: Loading properties
+[11:19:21] [Server thread/INFO]: Default game type: SURVIVAL
+[11:19:22] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-d2856ae-8f0f4ed (MC: 1.8.7) (Implementing API version 1.8.7-R0.1-SNAPSHOT)
+[11:19:23] [Server thread/INFO]: Debug logging is disabled
+[11:19:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:19:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:19:24] [Server thread/INFO]: Generating keypair
+[11:19:24] [Server thread/INFO]: Starting Minecraft server on 192.168.1.5:25565
+[11:19:26] [Server thread/INFO]: Using default channel type
+[11:19:27] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[11:19:27] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v11.4
+[11:19:27] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.8.4
+[11:19:27] [Server thread/INFO]: [SpectatorPlus] Loading SpectatorPlus v2.0
+[11:19:27] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.4
+[11:19:29] [Server thread/INFO]: [UHPlugin] Loading UHPlugin v1.2
+[11:19:29] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v11.4
+[11:19:34] [Server thread/INFO]: [SkinsRestorer] Loaded Skin Factory for v1_8_R3[m
+[11:19:34] [Server thread/INFO]: [0;32;22m==============================================[m
+[11:19:34] [Server thread/INFO]: [0;33;1m  SkinsRestorer Updater  [m
+[11:19:34] [Server thread/INFO]: [0;33;1m [m
+[11:19:34] [Server thread/INFO]: [0;32;1m    An update for SkinsRestorer has been found![m
+[11:19:34] [Server thread/INFO]: [0;36;1m    SkinsRestorer [0;32;1mv11.5.1[m
+[11:19:34] [Server thread/INFO]: [0;36;1m    You are running [0;31;1mv11.4[m
+[11:19:34] [Server thread/INFO]: [0;33;1m [m
+[11:19:34] [Server thread/INFO]: [0;33;1m    Download at[0;32;1m https://www.spigotmc.org/resources/skinsrestorer.2124/[m
+[11:19:34] [Server thread/INFO]: [0;32;22m==============================================[m
+[11:19:34] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.4
+[11:19:34] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[11:19:34] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[11:19:34] [Server thread/INFO]: Preparing level "lobby"
+[11:19:34] [Server thread/INFO]: -------- World Settings For [lobby] --------
+[11:19:34] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:19:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:19:34] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:19:34] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:19:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:19:34] [Server thread/INFO]: View Distance: 10
+[11:19:34] [Server thread/INFO]: Max TNT Explosions: 100
+[11:19:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:19:34] [Server thread/INFO]: Structure Info Saving: true
+[11:19:34] [Server thread/INFO]: Anti X-Ray: true
+[11:19:34] [Server thread/INFO]: 	Engine Mode: 1
+[11:19:34] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:19:34] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:19:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:19:34] [Server thread/INFO]: Mob Spawn Range: 4
+[11:19:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:19:34] [Server thread/INFO]: Sending up to 5 chunks per packet
+[11:19:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:19:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:19:35] [Server thread/INFO]: Random Lighting Updates: false
+[11:19:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:19:35] [Server thread/INFO]: Clear tick list: false
+[11:19:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:19:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:19:35] [Server thread/INFO]: Max Entity Collisions: 8
+[11:19:35] [Server thread/INFO]: -------- World Settings For [lobby_nether] --------
+[11:19:35] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:19:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:19:35] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:19:35] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:19:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:19:35] [Server thread/INFO]: View Distance: 10
+[11:19:35] [Server thread/INFO]: Max TNT Explosions: 100
+[11:19:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:19:35] [Server thread/INFO]: Structure Info Saving: true
+[11:19:35] [Server thread/INFO]: Anti X-Ray: true
+[11:19:35] [Server thread/INFO]: 	Engine Mode: 1
+[11:19:35] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:19:35] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:19:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:19:35] [Server thread/INFO]: Mob Spawn Range: 4
+[11:19:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:19:35] [Server thread/INFO]: Sending up to 5 chunks per packet
+[11:19:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:19:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:19:35] [Server thread/INFO]: Random Lighting Updates: false
+[11:19:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:19:35] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:19:35] [Server thread/INFO]: Clear tick list: false
+[11:19:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:19:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:19:35] [Server thread/INFO]: Max Entity Collisions: 8
+[11:19:36] [Server thread/INFO]: -------- World Settings For [lobby_the_end] --------
+[11:19:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:19:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:19:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:19:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:19:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:19:36] [Server thread/INFO]: View Distance: 10
+[11:19:36] [Server thread/INFO]: Max TNT Explosions: 100
+[11:19:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:19:36] [Server thread/INFO]: Structure Info Saving: true
+[11:19:36] [Server thread/INFO]: Anti X-Ray: true
+[11:19:36] [Server thread/INFO]: 	Engine Mode: 1
+[11:19:36] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:19:36] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:19:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:19:36] [Server thread/INFO]: Mob Spawn Range: 4
+[11:19:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:19:36] [Server thread/INFO]: Sending up to 5 chunks per packet
+[11:19:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:19:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:19:36] [Server thread/INFO]: Random Lighting Updates: false
+[11:19:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:19:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:19:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:19:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:19:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:19:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:19:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:19:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:19:36] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:19:36] [Server thread/INFO]: Clear tick list: false
+[11:19:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:19:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:19:36] [Server thread/INFO]: Max Entity Collisions: 8
+[11:19:36] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4461232724466139641)
+[11:19:38] [Server thread/INFO]: Preparing spawn area: 0%
+[11:19:39] [Server thread/INFO]: Preparing spawn area: 0%
+[11:19:40] [Server thread/INFO]: Preparing spawn area: 1%
+[11:19:41] [Server thread/INFO]: Preparing spawn area: 4%
+[11:19:42] [Server thread/INFO]: Preparing spawn area: 5%
+[11:19:43] [Server thread/INFO]: Preparing spawn area: 7%
+[11:19:44] [Server thread/INFO]: Preparing spawn area: 20%
+[11:19:45] [Server thread/INFO]: Preparing spawn area: 46%
+[11:19:46] [Server thread/INFO]: Preparing spawn area: 49%
+[11:19:47] [Server thread/INFO]: Preparing spawn area: 50%
+[11:19:49] [Server thread/INFO]: Preparing spawn area: 55%
+[11:19:50] [Server thread/INFO]: Preparing spawn area: 72%
+[11:19:51] [Server thread/INFO]: Preparing spawn area: 88%
+[11:19:52] [Server thread/INFO]: Preparing spawn area: 96%
+[11:19:54] [Server thread/INFO]: Preparing spawn area: 96%
+[11:19:55] [Server thread/INFO]: Preparing spawn area: 96%
+[11:19:58] [Server thread/INFO]: Preparing spawn area: 97%
+[11:19:59] [Server thread/INFO]: Preparing spawn area: 97%
+[11:20:00] [Server thread/INFO]: Preparing spawn area: 97%
+[11:20:01] [Server thread/INFO]: Preparing spawn area: 97%
+[11:20:03] [Server thread/INFO]: Preparing spawn area: 98%
+[11:20:04] [Server thread/INFO]: Preparing spawn area: 98%
+[11:20:06] [Server thread/INFO]: Preparing spawn area: 98%
+[11:20:07] [Server thread/INFO]: Preparing spawn area: 98%
+[11:20:07] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4461232724466139641)
+[11:20:08] [Server thread/INFO]: Preparing spawn area: 16%
+[11:20:09] [Server thread/INFO]: Preparing spawn area: 22%
+[11:20:10] [Server thread/INFO]: Preparing spawn area: 28%
+[11:20:11] [Server thread/INFO]: Preparing spawn area: 37%
+[11:20:12] [Server thread/INFO]: Preparing spawn area: 48%
+[11:20:13] [Server thread/INFO]: Preparing spawn area: 53%
+[11:20:14] [Server thread/INFO]: Preparing spawn area: 67%
+[11:20:16] [Server thread/INFO]: Preparing spawn area: 72%
+[11:20:17] [Server thread/INFO]: Preparing spawn area: 75%
+[11:20:18] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4461232724466139641)
+[11:20:19] [Server thread/INFO]: Preparing spawn area: 29%
+[11:20:20] [Server thread/INFO]: Preparing spawn area: 63%
+[11:20:20] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.8.4
+[11:20:20] [Server thread/INFO]: [WorldBorder] [CONFIG] Using elliptic/round border, knockback of 3.0 blocks, and timer delay of 5.
+[11:20:20] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[11:20:20] [Server thread/INFO]: [WorldBorder] [CONFIG] World "lobby" has border radius 1000 at X: 0.0 Z: 0.0 (shape override: rectangular/square)
+[11:20:20] [Server thread/INFO]: [WorldBorder] For reference, the main world's spawn location is at X: 0.0 Y: 72.0 Z: 0.0
+[11:20:20] [Server thread/INFO]: [SpectatorPlus] Enabling SpectatorPlus v2.0
+[11:20:21] [Server thread/INFO]: [0;33;22m[[0;34;1mSpectator[0;34;22mPlus[0;33;22m] Version [0;31;1m2.0[0;33;22m is enabled![m
+[11:20:21] [Server thread/INFO]: [UHPlugin] Enabling UHPlugin v1.2
+[11:20:21] [Server thread/WARN]: [UHPlugin] Could not save manifest.yml to plugins\UHPlugin\i18n\manifest.yml because manifest.yml already exists.
+[11:20:21] [Server thread/INFO]: [UHPlugin] The selected language (es_MX) is not available or not registered in the manifest; using en_US.
+[11:20:22] [Server thread/INFO]: [WorldBorder] Portal redirection enabled.
+[11:20:22] [Server thread/INFO]: [WorldBorder] [CONFIG] Configuration saved.
+[11:20:22] [Server thread/INFO]: [WorldBorder] Border set. World "lobby" has border radius 1000 at X: 0.0 Z: 0.0 (shape override: rectangular/square)
+[11:20:22] [Server thread/INFO]: [WorldBorder] [CONFIG] Configuration saved.
+[11:20:22] [Server thread/INFO]: [UHPlugin] Overworld border configured using WorldBorder (world "lobby").
+[11:20:22] [Server thread/INFO]: [UHPlugin] Successfully hooked into WorldBorder.
+[11:20:22] [Server thread/INFO]: [UHPlugin] Successfully hooked into SpectatorPlus.
+[11:20:22] [Server thread/WARN]: [UHPlugin] Dynmap is not present, so the integration was disabled.
+[11:20:22] [Server thread/INFO]: [UHPlugin] Successfully hooked into ProtocolLib.
+[11:20:24] [Server thread/INFO]: [UHPlugin] Ultra Hardcore plugin loaded.
+[11:20:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:20:25] [Server thread/INFO]: Done (50.965s)! For help, type "help" or "?"
+[11:20:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@561527c1[id=<null>,name=Highbred02,properties={},legacy=false] (/192.168.1.5:58283) lost connection: Disconnected
+[11:20:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@f5b3f19[id=<null>,name=Highbred02,properties={},legacy=false] (/192.168.1.5:58290) lost connection: Disconnected
+[11:20:37] [Server thread/INFO]: Stopping the server
+[11:20:37] [Server thread/INFO]: Stopping server
+[11:20:37] [Server thread/INFO]: [UHPlugin] Disabling UHPlugin v1.2
+[11:20:37] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.6.4
+[11:20:37] [Server thread/INFO]: [SpectatorPlus] Disabling SpectatorPlus v2.0
+[11:20:37] [Server thread/INFO]: [0;33;22m[[0;34;1mSpectator[0;34;22mPlus[0;33;22m] Disabling...[m
+[11:20:37] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.8.4
+[11:20:37] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[11:20:37] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v11.4
+[11:20:37] [Server thread/INFO]: Saving players
+[11:20:37] [Server thread/INFO]: Saving worlds
+[11:20:37] [Server thread/INFO]: Saving chunks for level 'lobby'/Overworld
+[11:20:43] [Server thread/INFO]: Saving chunks for level 'lobby_nether'/Nether
+[11:20:48] [Server thread/INFO]: Saving chunks for level 'lobby_the_end'/The End
